@@ -1,0 +1,11 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cpu
+pandas==1.0.5
+requests==2.25.1
+flair==0.8.0.post1
+nltk==3.5
+streamlit==0.84.0
+matplotlib==3.2.2
+plotly==5.1.0
+numpy==1.18.5
+beautifulsoup4==4.9.3
