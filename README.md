@@ -75,7 +75,7 @@ We are also comapring the input stock performance with two competitor stocks on 
 
 1. Cloning the Repo
    ```sh
-   git clone https://github.com/ssjky/Stocks-Sentiment-Analyzer.git
+   git clone https://github.com/ssjky6/Stocks-Sentiment-Analyzer.git
    ```
    
 2. Running the Application
